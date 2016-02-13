@@ -39,21 +39,6 @@
     "density": "4.0"
   }
   ],
-"splash_screens": [
-  {
-    "src":"img/icons/splash-320x240.png",
-    "sizes":"320x240"
-  },
-  {
-    "src":"img/icons/splash-1334x750.png",
-    "sizes":"1334x750"
-  },
-  {
-    "src":"img/icons/splash-1920x1080.png",
-    "sizes":"1920x1080",
-    "density": 3
-  }
-  ],
 "start_url": "/index.html",
 "display": "fullscreen",
 "orientation": "portrait",
